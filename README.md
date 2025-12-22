@@ -64,7 +64,7 @@ A showcase of the technologies and tools I frequently use:
 <a href="https://www.linkedin.com/in/deonin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 <a href="https://myportfoli2.vercel.app"><img src="https://img.shields.io/badge/Portfolio-10A19D?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/></a>
 <a href="<Your Twitter/X URL>"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X Badge"/></a>
-<a href="<Your Twitter/X URL>"><img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X Badge"/></a>
+<a href="<Your Twitter/X URL>"><img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter/X Badge"/></a>
 <a href="<Your Blog/Medium URL>"><img src="https://img.shields.io/badge/Blog-FF6600?style=for-the-badge&logo=ghost&logoColor=white" alt="Blog Badge"/></a>
 
 </div>
