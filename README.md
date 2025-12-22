@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-# 👋 Hello! I'm Deoninja
+# 👋 Hello! I'm Deo
 
-### A passionate <Your Primary Role, e.g., Software Engineer, Data Scientist>
+### A passionate Software Engineer
 
 <a href="<Link to a project or your blog>">
   <img src="https://img.shields.io/badge/Currently_Building-Awesome_Open_Source_Tools-blueviolet?style=for-the-badge" alt="Current Focus Badge">
@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 
 I'm a dedicated **<Your Primary Role>** with **<Number>** years of experience, specializing in **<Your Main Expertise, e.g., full-stack development, cloud architecture, machine learning>**. I enjoy turning complex problems into elegant, efficient, and user-friendly solutions.
 
-- **💻 Expertise:** <Specific technologies, e.g., MERN Stack, Python Backends, DevOps>
-- **🌱 I’m currently learning:** <e.g., GoLang, Advanced Kubernetes, Rust>
-- **💡 Looking to collaborate on:** Open-source projects focused on <e.g., sustainability or AI/ML>.
-- **💬 Ask me about:** <Topics you are happy to discuss, e.g., React performance, API design>.
-- **✉️ How to reach me:** <Your Professional Email Address>
+- **💻 Expertise:** MERN, PERN Stack,
+- **🌱 I’m currently learning:** Cyber Security
+- **💡 Looking to collaborate on:** Open-source projects focused on sustainability or AI/ML
+- **💬 Ask me about:**  React performance, API design.
+- **✉️ How to reach me:** deotri4@gmail.com
 
 ---
 
@@ -55,41 +55,16 @@ A showcase of the technologies and tools I frequently use:
 
 ---
 
-## 🌟 Featured Projects
 
-Here are a few of my favorite projects that showcase my skills:
-
-| Project Name | Description | Tech Stack Highlights | Link |
-| :--- | :--- | :--- | :--- |
-| **[Project 1 Title]** | <A brief, catchy description of your best project. Explain what it does and why you built it.> | `React` · `Node.js` · `MongoDB` · `JWT` | [View Project](<Link to your Project 1 Repo>) |
-| **[Project 2 Title]** | <A description of your second strongest project, focusing on a different skill or domain.> | `Python` · `Django` · `PostgreSQL` · `AWS S3` | [View Project](<Link to your Project 2 Repo>) |
-| **[Project 3 Title]** | <A project that showcases a unique skill like data science, game dev, or a utility.> | `TypeScript` · `Vue` · `Firebase` | [View Project](<Link to your Project 3 Repo>) |
-
-<p align="right"><a href="https://github.com/deoninja?tab=repositories">See More Projects →</a></p>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  [![deoninja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deoninja&show_icons=true&theme=vue&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-  
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deoninja&layout=compact&theme=vue&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
-
-  <br/>
-  [![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=deoninja&theme=vue)](https://git.io/streak-stats)
-  
-</div>
-
----
 
 ## 🤝 Connect with Me
 
 <div align="center">
   
-<a href="<Your LinkedIn URL>"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-<a href="<Your Portfolio/Personal Website URL>"><img src="https://img.shields.io/badge/Portfolio-10A19D?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/></a>
+<a href="https://www.linkedin.com/in/deonin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+<a href="https://myportfoli2.vercel.app"><img src="https://img.shields.io/badge/Portfolio-10A19D?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/></a>
 <a href="<Your Twitter/X URL>"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X Badge"/></a>
+<a href="<Your Twitter/X URL>"><img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X Badge"/></a>
 <a href="<Your Blog/Medium URL>"><img src="https://img.shields.io/badge/Blog-FF6600?style=for-the-badge&logo=ghost&logoColor=white" alt="Blog Badge"/></a>
 
 </div>
