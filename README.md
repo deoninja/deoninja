@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-I'm a dedicated **<Your Primary Role>** with **<Number>** years of experience, specializing in **<Your Main Expertise, e.g., full-stack development, cloud architecture, machine learning **. I enjoy turning complex problems into elegant, efficient, and user-friendly solutions.
+I'm a dedicated Fullstack Developer with 5 years of experience, specializing in full-stack development, cloud architecture, machine learning **. I enjoy turning complex problems into elegant, efficient, and user-friendly solutions.
 
 - **💻 Expertise:** MERN, PERN Stack,
 - **🌱 I’m currently learning:** Cyber Security
