@@ -56,7 +56,6 @@ A showcase of the technologies and tools I frequently use:
 ---
 
 
-
 ## 🤝 Connect with Me
 
 <div align="center">
